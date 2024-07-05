@@ -252,7 +252,6 @@ while True:
             print("The game has reached a dead end!!!!")
             break
         if loop>=7:
-            print("eweuyuewy")
             row=checkRow()
             col=checkColumn()
             cross=checkCross()
